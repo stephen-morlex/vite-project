@@ -4,6 +4,7 @@
 
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
+   <!-- <StyledHeader>This is Style Component header</StyledHeader> -->
 </template>
 
 <style>
