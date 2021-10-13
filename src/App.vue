@@ -4,7 +4,7 @@
 
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
-   <!-- <StyledHeader>This is Style Component header</StyledHeader> -->
+ <h1>Style component is messy in vue</h1>  <!-- <StyledHeader>This is Style Component header</StyledHeader> -->
 </template>
 
 <style>
